@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Kertys**
+- 🔭 I’m currently working on [Digital Partnership Group](https://digital-partnership.com/ "Digital Partnership Group")
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
