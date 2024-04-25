@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ouaklimothmane@gmail.com**
 
-- 💬 Ask me about **Javascript, Svelte, React, Next**
+- 💬 Ask me about **Javascript, Svelte, React, Next, Vue, Nuxt**
 
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
